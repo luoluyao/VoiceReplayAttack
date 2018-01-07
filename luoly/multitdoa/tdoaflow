@@ -1,0 +1,110 @@
+import wave
+import sys
+import numpy as np
+import string
+
+# thr: to detect wrong value
+thr = 100
+
+# sound velocity mm/s
+sound_velocity = 340000
+
+def read_wave_data(file_path):
+    # open a wave file, and return a Wave_read object
+    f = wave.open(file_path, "rb")
+    # read the wave's format infomation,and return a tuple
+    params = f.getparams()
+    # get the info
+    nchannels, sampwidth, framerate, nframes = params[:4]
+    # Reads and returns nframes of audio, as a string of bytes.
+    str_data = f.readframes(nframes)
+    # close the stream
+    f.close()
+    # turn the wave's data to array
+    wave_data = np.fromstring(str_data, dtype=np.short)
+    # for the data is stereo,and format is LRLRLR...
+    # shape the array to n*2(-1 means fit the y coordinate)
+    # transpose the data
+    wave_data = wave_data.T
+    # calculate the time bar
+    # time = np.arange(0, nframes) * (1.0 / framerate)
+    # get framerate
+    fs = f.getframerate()
+    return wave_data, fs
+
+def multi_tdoa(wave_data1, wave_data2, frame_rate, default_offset = 2048):
+    '''
+    This function computes multi tdoas between wave_data1 and wave_data2.
+    :param wave_data1:
+    :param wave_data2:
+    :param frame_rate:
+    :return: a serial of tdoa
+    '''
+    length = len(wave_data1)
+    print length
+    number = length / default_offset
+    print number
+    tdoas = []
+    window = np.hanning(default_offset)
+    for count in range(number - 1):
+        sig = wave_data1[count * default_offset : (count + 1) * default_offset]
+        refsig = wave_data2[count * default_offset : (count + 1) * default_offset]
+        tau, cc = gcc_phat(sig, refsig, fs= frame_rate)
+        if (abs(tau * sound_velocity) > 100):
+            tau, cc = gcc_phat(sig, refsig, fs=frame_rate, flag_smaller=True)
+        tdoas.append(tau * sound_velocity)
+        print count
+    print 'tdoas:', tdoas
+    print frame_rate
+    return tdoas
+
+def gcc_phat(sig, refsig, fs=1, max_tau=None, interp=16, flag_smaller = False):
+    '''
+    This function computes the offset between the signal sig and the reference signal refsig
+    using the Generalized Cross Correlation - Phase Transform (GCC-PHAT)method.
+    '''
+
+    # make sure the length for the FFT is larger or equal than len(sig) + len(refsig)
+    n = sig.shape[0] + refsig.shape[0]
+
+    # Generalized Cross Correlation Phase Transform
+    SIG = np.fft.rfft(sig, n=n)
+    REFSIG = np.fft.rfft(refsig, n=n)
+    R = SIG * np.conj(REFSIG)
+
+    cc = np.fft.irfft(R / np.abs(R), n=(interp * n))
+
+    max_shift = int(interp * n / 2)
+    if max_tau:
+        max_shift = np.minimum(int(interp * fs * max_tau), max_shift)
+    if not flag_smaller:
+        cc = np.concatenate((cc[-max_shift:], cc[:max_shift + 1]))
+    else:
+        max_shift = int(thr * float(interp * fs) / float(sound_velocity))
+        cc = np.concatenate((cc[-100:], cc[:100 + 1]))
+    shift = np.argmax(np.abs(cc)) - max_shift
+    # find max cross correlation index
+    shift = np.argmax(np.abs(cc)) - max_shift
+
+    tau = shift / float(interp * fs)
+
+    return tau, cc
+
+def main():
+    filename1 = sys.argv[1]
+    filename2 = sys.argv[2]
+
+    # read .wav file
+    wave1_data, fs1 = read_wave_data(filename1)
+    wave2_data, fs2 = read_wave_data(filename2)
+    if fs1 != fs2:
+        print 'Error! Not same framerate!'
+    multi_tdoa(wave1_data, wave2_data, frame_rate=fs1)
+
+
+if __name__ == "__main__":
+    main()
+
+# test_case2_1.wav test_case2_2.wav
+
+# test-phone-02--01.wav test-phone-02--02.wav
