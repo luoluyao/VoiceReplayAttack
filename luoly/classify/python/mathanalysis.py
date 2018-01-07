@@ -78,7 +78,6 @@ def main():
     m_new_data_file_name = sys.argv[4]
     m_new_data_file = open(m_new_data_file_name, 'w')
 
-
     avg = calc_avg(h_datas)
     m_avg = calc_avg(m_datas)
     h_varainces = every_set_variance(h_datas, avg)
