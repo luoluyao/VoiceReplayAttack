@@ -94,7 +94,7 @@ def gcc_phat(sig, refsig, fs, max_tau=None, interp=16, smaller_flag=False):
      if max_tau:
          max_shift = np.minimum(int(interp * fs * max_tau), max_shift)
      if not smaller_flag:
-        cc = np.concatenate((cc[-max_shift:], cc[:max_shift+1]))
+        cc = np.concatenate((cc[-max_shift:], cc[:max_shift + 1]))
         # find max cross correlation index
         shift = np.argmax(np.abs(cc)) - max_shift
      else:
@@ -104,7 +104,6 @@ def gcc_phat(sig, refsig, fs, max_tau=None, interp=16, smaller_flag=False):
          shift = np.argmax(np.abs(cc)) - max_shift
      tau = shift / float(interp * fs)
      return tau, cc
-
 
 # get datas calculated to correlation
 def inputCorrelation(wave1_data, phonemes1, wave2_data, phonemes2, phonemeSize, extensionWav, framerate):
