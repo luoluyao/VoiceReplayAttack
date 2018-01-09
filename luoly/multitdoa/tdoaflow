@@ -32,7 +32,7 @@ def read_wave_data(file_path):
     fs = f.getframerate()
     return wave_data, fs
 
-def multi_tdoa(wave_data1, wave_data2, frame_rate, default_offset = 2048):
+def multi_tdoa(wave_data1, wave_data2, frame_rate, default_offset = 128):
     '''
     This function computes multi tdoas between wave_data1 and wave_data2.
     :param wave_data1:
@@ -40,6 +40,7 @@ def multi_tdoa(wave_data1, wave_data2, frame_rate, default_offset = 2048):
     :param frame_rate:
     :return: a serial of tdoa
     '''
+
     length = len(wave_data1)
     print length
     number = length / default_offset
@@ -53,9 +54,9 @@ def multi_tdoa(wave_data1, wave_data2, frame_rate, default_offset = 2048):
         if (abs(tau * sound_velocity) > 100):
             tau, cc = gcc_phat(sig, refsig, fs=frame_rate, flag_smaller=True)
         tdoas.append(tau * sound_velocity)
-        print count
-    print 'tdoas:', tdoas
-    print frame_rate
+        # print count
+    # print 'tdoas:', tdoas
+    # print frame_rate
     return tdoas
 
 def gcc_phat(sig, refsig, fs=1, max_tau=None, interp=16, flag_smaller = False):
@@ -81,11 +82,11 @@ def gcc_phat(sig, refsig, fs=1, max_tau=None, interp=16, flag_smaller = False):
         cc = np.concatenate((cc[-max_shift:], cc[:max_shift + 1]))
     else:
         max_shift = int(thr * float(interp * fs) / float(sound_velocity))
-        cc = np.concatenate((cc[-100:], cc[:100 + 1]))
-    shift = np.argmax(np.abs(cc)) - max_shift
+        cc = np.concatenate((cc[-max_shift:], cc[:max_shift + 1]))
+
     # find max cross correlation index
     shift = np.argmax(np.abs(cc)) - max_shift
-
+    # print "shift", shift
     tau = shift / float(interp * fs)
 
     return tau, cc
@@ -99,6 +100,8 @@ def main():
     wave2_data, fs2 = read_wave_data(filename2)
     if fs1 != fs2:
         print 'Error! Not same framerate!'
+    print "data1", wave1_data
+    print "data2", wave2_data
     multi_tdoa(wave1_data, wave2_data, frame_rate=fs1)
 
 

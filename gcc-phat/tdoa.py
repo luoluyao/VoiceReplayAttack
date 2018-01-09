@@ -19,6 +19,8 @@ while True:
     ref = ref1.readframes(N)
     sig_buf = np.fromstring(sig, dtype='int16')
     ref_buf = np.fromstring(ref, dtype='int16')
+    print len(sig_buf)
+    print len(ref_buf)
     tau, _ = gcc_phat(sig_buf * window, ref_buf * window, fs=rate, max_tau=1)
-    print(tau)
+    print(tau*340000)
 

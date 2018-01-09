@@ -127,6 +127,8 @@ def main():
     # read .wav file
     wave1_data, fs1 = read_wave_data(filename1)
     wave2_data, fs2 = read_wave_data(filename2)
+    print "data1", wave1_data
+    print "data2", wave2_data
     if fs1 != fs2:
         print 'Error! Not same framerate!'
     # analysis .TextGrid file
