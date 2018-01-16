@@ -10,6 +10,31 @@ d = np.sqrt(58 * 58/2)
 # data number for phoneme
 phoneme_num = 4
 
+# count all data
+count_all_data = 0
+
+# count all wrong data
+count_wrong_data = 0
+
+def calc_twopoint_distance(x1, y1, z1, x2, y2, z2):
+    return  round(np.sqrt(np.power(x1 - x2, 2) + np.power(y1 - y2, 2) + np.power(z1 - z2, 2)), 2)
+
+def calc_error_distance(data):
+    '''
+
+    :param data:
+    :return:
+    '''
+    #print "data:", data
+    result = []
+    for i in range(phoneme_num):
+        for j in range(i + 1, phoneme_num):
+            tmp = calc_twopoint_distance(data[i][0], data[i][1], data[i][2], data[j][0], data[j][1], data[j][2])
+            result.append(tmp)
+    print "result", result
+    return result
+
+
 def cal_position_multi(datas):
     '''
     Using cal_position to calculate all datas
@@ -23,7 +48,9 @@ def cal_position_multi(datas):
             r = cal_position(d[1], d[0], d[2])
             if r is not None and len(r) != 0:
                 tmp.append(r)
-        positions.append(tmp)
+        # Only use effective data
+        if len(tmp) == phoneme_num:
+            positions.append(calc_error_distance(tmp))
         tmp = []
     return positions
 
@@ -56,9 +83,6 @@ def calc_z(x, y, r1):
       return z_value
     return 0
 
-
-
-
 def cal_position(r12, r13, r14):
     '''
     calculate the position using tdoa
@@ -90,19 +114,24 @@ def cal_position(r12, r13, r14):
 
     x = (r3*r3 - r1*r1) / (4 * d)
     y = (r4*r4 - r2*r2) / (4 * d)
-
+    global count_wrong_data
+    global count_all_data
     z = calc_z(x,y,r1)
     if z == 0:
+        count_wrong_data += 1
         print "[error] complex:"
         return
 
     R = sqrt(x*x + y*y + z*z)
-
+    count_all_data += 1
     return round(x,2), round(y,2), round(z,2), round(R,2)
 
 def main():
     file_name = sys.argv[1]
     file_name_write = sys.argv[2]
+
+    count_wrong_data = 0
+    count_all_data = 0
     data = read_file(file_name)
     datas = transform_data(data)
     position = cal_position_multi(datas)
@@ -114,6 +143,8 @@ def main():
     print data
     print datas
     print position
+    print "count_wrong_data", count_wrong_data
+    print "count_all_data", count_all_data
 
 def transform_data(datas):
     '''
