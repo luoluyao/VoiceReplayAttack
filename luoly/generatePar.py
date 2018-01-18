@@ -10,7 +10,6 @@ def exec_cmd(cmd):
     print x
     p.close()
 
-
 for i in range(1,5):
     cmd = "./maus SIGNAL=" + filename + str(i) + ".wav BPF=youtellme.par OUTFORMAT=TextGrid LANGUAGE=eng-US"
     cmds.append(cmd)
@@ -25,6 +24,7 @@ try:
         print cmd
         th.start()
         threads.append(th)
+
 except:
    print "Error: unable to start thread"
 
