@@ -135,11 +135,17 @@ def main():
     data = read_file(file_name)
     datas = transform_data(data)
     position = cal_position_multi(datas)
-    f_wite = open(file_name_write, "w")
+    f_write = open(file_name_write, "w")
     for p in position:
-        f_wite.write(str(p))
-        f_wite.write("\n")
-    f_wite.close()
+        # formated:
+        f_write.write("-1 ")
+        for i in range(len(p)):
+            f_write.write(str(i + 1))
+            f_write.write(":")
+            f_write.write(str(p[i]))
+            f_write.write(" ")
+        f_write.write("\n")
+    f_write.close()
     print data
     print datas
     print position
