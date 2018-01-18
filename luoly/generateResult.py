@@ -2,6 +2,7 @@ import sys
 import os
 import threading
 
+
 filename = sys.argv[1]
 
 def exec_cmd(cmd):
@@ -9,6 +10,8 @@ def exec_cmd(cmd):
     x = p.read()
     print x
     p.close()
+
+
 
 cmds = []
 for i in range(1,5,):
