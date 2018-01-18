@@ -11,7 +11,7 @@ def exec_cmd(cmd):
     p.close()
 
 cmds = []
-for i in range(1,5,):
+for i in range(0,4,):
     if i == 2 :
         continue
     cmd = "python readwav.py " + filename + "2.wav " + filename + str(i) + ".wav " + filename + "2.TextGrid " +  filename + str( i) + ".TextGrid >> log"

@@ -11,7 +11,7 @@ def exec_cmd(cmd):
     p.close()
 
 
-for i in range(1,5):
+for i in range(0,4):
     cmd = "./maus SIGNAL=" + filename + str(i) + ".wav BPF=youtellme.par OUTFORMAT=TextGrid LANGUAGE=eng-US"
     cmds.append(cmd)
 
