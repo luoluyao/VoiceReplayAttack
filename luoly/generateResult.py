@@ -2,6 +2,7 @@ import sys
 import os
 import threading
 
+
 filename = sys.argv[1]
 
 def exec_cmd(cmd):
@@ -10,12 +11,18 @@ def exec_cmd(cmd):
     print x
     p.close()
 
+
+
 cmds = []
 for i in range(0,4,):
     if i == 2 :
         continue
     cmd = "python readwav.py " + filename + "2.wav " + filename + str(i) + ".wav " + filename + "2.TextGrid " +  filename + str( i) + ".TextGrid >> log"
     cmds.append(cmd)
+
+# mfcc
+mfcc_cmd = "./getMfcc.py " + filename + ">> mfcc_record"
+cmds.append(mfcc_cmd)
 
 # threads pool
 threads = []
