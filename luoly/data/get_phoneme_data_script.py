@@ -59,7 +59,7 @@ def get_same_file_name(allfiles):
             get_result(filename[:-4])
 
 def main():
-    path = "./"
+    path = sys.argv[1]
     allfile = []
     dirlist(path, allfile)
     get_same_file_name(allfile)
