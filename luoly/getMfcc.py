@@ -68,7 +68,7 @@ def print_data(features):
     '''
     for feature in features:
         count = 0
-        string_data = ""
+        string_data = "-1 "
         for f in feature:
             string_data += str(count) + ":" + str(round(f, 2)) + " "
             count += 1
