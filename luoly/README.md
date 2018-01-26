@@ -41,6 +41,23 @@
  * $ python getMfcc.py test-
  
   （**“test-”**是总名称，它实际包含了，test-0.wav，test-1.wav，..., test-0.TextGrid，...等**8个文件**）
+  
+ * 注意：**getMfcc_no_phoneme.py**也是类似的，只是，它是对整个原音频进行分析的。
+ 
+## getMfcc_no_phoneme.py
+
+* 用于批量处理执行 **getMfcc.py**脚本
+
+* 输入包含音频文件和TextGrid文件的大目录，和 输出的log的文件名
+
+* 输出mfcc的数据到原本的文件名中
+
+* $ python get_mfcc_data_script.py sound/sound/machine/wav_machine_60cm/ mfcclog_no_phoneme/60cm_machine
+
+* 注意：**get_mfcc_no_phoneme_data_script.py**类似。
+
+
+
 ## process.m
 
  * 输入：音频文件，及切割时间
