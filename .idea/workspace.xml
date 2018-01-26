@@ -2,279 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f658f9e-d9d3-412c-9d74-4e4f6ec06051" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_1/test.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_1/test0.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_1/test0.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_1/test1.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_1/test1.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_1/test2.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_1/test2.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_1/test3.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_1/test3.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_10/test.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_10/test0.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_10/test0.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_10/test1.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_10/test1.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_10/test2.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_10/test2.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_10/test3.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_10/test3.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_11/test.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_11/test0.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_11/test0.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_11/test1.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_11/test1.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_11/test2.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_11/test2.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_11/test3.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_11/test3.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_12/test.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_12/test0.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_12/test0.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_12/test1.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_12/test1.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_12/test2.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_12/test2.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_12/test3.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_12/test3.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_13/test.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_13/test0.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_13/test0.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_13/test1.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_13/test1.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_13/test2.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_13/test2.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_13/test3.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_13/test3.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_14/test.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_14/test0.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_14/test0.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_14/test1.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_14/test1.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_14/test2.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_14/test2.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_14/test3.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_14/test3.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_15/test.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_15/test0.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_15/test0.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_15/test1.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_15/test1.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_15/test2.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_15/test2.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_15/test3.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_15/test3.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_16/test.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_16/test0.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_16/test0.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_16/test1.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_16/test1.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_16/test2.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_16/test2.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_16/test3.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_16/test3.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_17/test.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_17/test0.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_17/test0.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_17/test1.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_17/test1.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_17/test2.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_17/test2.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_17/test3.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_17/test3.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_18/test.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_18/test0.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_18/test0.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_18/test1.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_18/test1.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_18/test2.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_18/test2.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_18/test3.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_18/test3.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_19/test.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_19/test0.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_19/test0.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_19/test1.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_19/test1.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_19/test2.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_19/test2.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_19/test3.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_19/test3.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_2/test.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_2/test0.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_2/test0.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_2/test1.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_2/test1.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_2/test2.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_2/test2.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_2/test3.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_2/test3.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_20/test.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_20/test0.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_20/test0.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_20/test1.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_20/test1.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_20/test2.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_20/test2.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_20/test3.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_20/test3.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_21/test.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_21/test0.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_21/test0.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_21/test1.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_21/test1.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_21/test2.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_21/test2.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_21/test3.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_21/test3.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_22/test.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_22/test0.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_22/test0.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_22/test1.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_22/test1.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_22/test2.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_22/test2.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_22/test3.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_22/test3.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_23/test.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_23/test0.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_23/test0.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_23/test1.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_23/test1.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_23/test2.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_23/test2.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_23/test3.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_23/test3.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_24/test.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_24/test0.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_24/test0.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_24/test1.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_24/test1.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_24/test2.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_24/test2.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_24/test3.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_24/test3.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_25/test.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_25/test0.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_25/test0.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_25/test1.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_25/test1.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_25/test2.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_25/test2.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_25/test3.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_25/test3.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_26/test.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_26/test0.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_26/test0.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_26/test1.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_26/test1.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_26/test2.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_26/test2.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_26/test3.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_26/test3.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_27/test.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_27/test0.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_27/test0.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_27/test1.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_27/test1.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_27/test2.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_27/test2.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_27/test3.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_27/test3.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_28/test.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_28/test0.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_28/test0.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_28/test1.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_28/test1.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_28/test2.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_28/test2.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_28/test3.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_28/test3.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_29/test.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_29/test0.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_29/test0.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_29/test1.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_29/test1.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_29/test2.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_29/test2.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_29/test3.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_29/test3.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_3/test.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_3/test0.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_3/test0.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_3/test1.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_3/test1.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_3/test2.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_3/test2.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_3/test3.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_3/test3.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_30/test.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_30/test0.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_30/test0.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_30/test1.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_30/test1.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_30/test2.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_30/test2.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_30/test3.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_30/test3.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_4/test.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_4/test0.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_4/test0.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_4/test1.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_4/test1.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_4/test2.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_4/test2.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_4/test3.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_4/test3.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_5/test.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_5/test0.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_5/test0.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_5/test1.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_5/test1.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_5/test2.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_5/test2.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_5/test3.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_5/test3.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_6/test.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_6/test0.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_6/test0.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_6/test1.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_6/test1.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_6/test2.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_6/test2.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_6/test3.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_6/test3.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_7/test.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_7/test0.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_7/test0.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_7/test1.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_7/test1.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_7/test2.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_7/test2.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_7/test3.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_7/test3.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_8/test.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_8/test0.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_8/test0.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_8/test1.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_8/test1.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_8/test2.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_8/test2.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_8/test3.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_8/test3.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_9/test.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_9/test0.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_9/test0.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_9/test1.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_9/test1.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_9/test2.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_9/test2.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_9/test3.TextGrid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/luoly/sound/sound/machine/wav_machine_60cm/wav_machine_60cm/wav_9/test3.wav" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luoly/getMfcc_no_phoneme.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luoly/get_mfcc_no_phoneme_data_script.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luoly/mfcclog/all_distance_human_20%" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luoly/mfcclog/all_distance_human_80%" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luoly/mfcclog/all_distance_machine_20%" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luoly/mfcclog/all_distance_machine_80%" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luoly/mfcclog_no_phoneme/all_distance_human_20%" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luoly/mfcclog_no_phoneme/all_distance_human_80%" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luoly/mfcclog_no_phoneme/all_distance_machine_20%" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luoly/mfcclog_no_phoneme/all_distance_machine_80%" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/luoly/getMfcc.py" afterPath="$PROJECT_DIR$/luoly/getMfcc.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/luoly/mfcclog/10cm" afterPath="$PROJECT_DIR$/luoly/mfcclog/10cm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/luoly/mfcclog/40cm_machine" afterPath="$PROJECT_DIR$/luoly/mfcclog/40cm_machine" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/luoly/mfcclog/60cm_machine" afterPath="$PROJECT_DIR$/luoly/mfcclog/60cm_machine" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -285,106 +25,102 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="getMfcc.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/luoly/getMfcc.py">
+      <file leaf-file-name="10cm_machine" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/luoly/mfcclog_no_phoneme/10cm_machine">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="70" column="25" lean-forward="false" selection-start-line="70" selection-start-column="25" selection-end-line="70" selection-end-column="25" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="770">
+              <caret line="120" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="all_distance_machine_80%" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/luoly/mfcclog_no_phoneme/all_distance_machine_80%">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="464">
+              <caret line="847" column="31" lean-forward="false" selection-start-line="847" selection-start-column="31" selection-end-line="847" selection-end-column="31" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="80cm_machine" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/luoly/mfcclog/80cm_machine">
+        <entry file="file://$PROJECT_DIR$/luoly/mfcclog_no_phoneme/80cm_machine">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2502">
-              <caret line="11" column="19" lean-forward="false" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+            <state relative-caret-position="770">
+              <caret line="120" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="50cm_machine" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/luoly/mfcclog/50cm_machine">
+      <file leaf-file-name="60cm_machine" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/luoly/mfcclog_no_phoneme/60cm_machine">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="50cm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/luoly/mfcclog/50cm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="770">
+              <caret line="120" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="45cm_machine" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/luoly/mfcclog/45cm_machine">
+        <entry file="file://$PROJECT_DIR$/luoly/mfcclog_no_phoneme/45cm_machine">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="784">
+              <caret line="120" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="10cm_machine" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/luoly/mfcclog/10cm_machine">
+      <file leaf-file-name="50cm_machine" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/luoly/mfcclog_no_phoneme/50cm_machine">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1872">
-              <caret line="19" column="23" lean-forward="true" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+            <state relative-caret-position="770">
+              <caret line="120" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="45cm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/luoly/mfcclog/45cm">
+      <file leaf-file-name="40cm_machine" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/luoly/mfcclog_no_phoneme/40cm_machine">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="770">
+              <caret line="120" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="60cm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/luoly/mfcclog/60cm">
+      <file leaf-file-name="35cm_machine" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/luoly/mfcclog_no_phoneme/35cm_machine">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="770">
+              <caret line="120" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="80cm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/luoly/mfcclog/80cm">
+      <file leaf-file-name="30cm_machine" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/luoly/mfcclog_no_phoneme/30cm_machine">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="27" column="17" lean-forward="false" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+            <state relative-caret-position="770">
+              <caret line="120" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="get_mfcc_data_script.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/luoly/get_mfcc_data_script.py">
+      <file leaf-file-name="20cm_machine" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/luoly/mfcclog_no_phoneme/20cm_machine">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="499">
-              <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="770">
+              <caret line="120" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -409,6 +145,8 @@
       <find>analysisFile</find>
       <find>read_wave_data</find>
       <find>print</find>
+      <find>-1 0:21.09 1:-29.15 2:-23.95 3:-15.56 4:-32.9 5:4.22 6:5.83 7:9.42 8:15.0 9:-7.56</find>
+      <find>winlen</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -417,7 +155,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/luoly/classify/python/log_multithread_h" />
         <option value="$PROJECT_DIR$/luoly/classify/python/log_multithread_m" />
         <option value="$PROJECT_DIR$/luoly/classify/python/format.py" />
         <option value="$PROJECT_DIR$/gcc-phat/tdoa.py" />
@@ -451,7 +188,24 @@
         <option value="$PROJECT_DIR$/luoly/get_mfcc_data_script.py" />
         <option value="$PROJECT_DIR$/luoly/mfcclog/10cm" />
         <option value="$PROJECT_DIR$/luoly/mfcclog/35cm" />
+        <option value="$PROJECT_DIR$/luoly/mfcclog/40cm_machine" />
+        <option value="$PROJECT_DIR$/luoly/mfcclog/45cm_machine" />
+        <option value="$PROJECT_DIR$/luoly/mfcclog/all_distance_machine" />
+        <option value="$PROJECT_DIR$/luoly/mfcclog/20cm_machine" />
+        <option value="$PROJECT_DIR$/luoly/mfcclog/60cm_machine" />
+        <option value="$PROJECT_DIR$/luoly/mfcclog/all_distance_machine_20%" />
+        <option value="$PROJECT_DIR$/luoly/mfcclog/all_distance_human_20%" />
+        <option value="$PROJECT_DIR$/luoly/mfcclog/all_distance_human_80%" />
+        <option value="$PROJECT_DIR$/luoly/getMfcc_phoneme.py" />
+        <option value="$PROJECT_DIR$/luoly/get_mfcc_no_phoneme_data_script.py" />
         <option value="$PROJECT_DIR$/luoly/getMfcc.py" />
+        <option value="$PROJECT_DIR$/luoly/getMfcc_no_phoneme.py" />
+        <option value="$PROJECT_DIR$/luoly/mfcclog_no_phoneme/all_distance_human_20%" />
+        <option value="$PROJECT_DIR$/luoly/mfcclog_no_phoneme/30cm_human" />
+        <option value="$PROJECT_DIR$/luoly/mfcclog_no_phoneme/all_distance_human_80%" />
+        <option value="$PROJECT_DIR$/luoly/mfcclog_no_phoneme/all_distance_machine_20%" />
+        <option value="$PROJECT_DIR$/luoly/mfcclog_no_phoneme/10cm_machine" />
+        <option value="$PROJECT_DIR$/luoly/mfcclog_no_phoneme/all_distance_machine_80%" />
       </list>
     </option>
   </component>
@@ -487,39 +241,13 @@
             <path>
               <item name="git" type="b2602c69:ProjectViewProjectNode" />
               <item name="git" type="462c0819:PsiDirectoryNode" />
-              <item name="gcc-phat" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="git" type="b2602c69:ProjectViewProjectNode" />
-              <item name="git" type="462c0819:PsiDirectoryNode" />
               <item name="luoly" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="git" type="b2602c69:ProjectViewProjectNode" />
               <item name="git" type="462c0819:PsiDirectoryNode" />
               <item name="luoly" type="462c0819:PsiDirectoryNode" />
-              <item name="mfcclog" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="git" type="b2602c69:ProjectViewProjectNode" />
-              <item name="git" type="462c0819:PsiDirectoryNode" />
-              <item name="luoly" type="462c0819:PsiDirectoryNode" />
-              <item name="sound" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="git" type="b2602c69:ProjectViewProjectNode" />
-              <item name="git" type="462c0819:PsiDirectoryNode" />
-              <item name="luoly" type="462c0819:PsiDirectoryNode" />
-              <item name="sound" type="462c0819:PsiDirectoryNode" />
-              <item name="sound" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="git" type="b2602c69:ProjectViewProjectNode" />
-              <item name="git" type="462c0819:PsiDirectoryNode" />
-              <item name="luoly" type="462c0819:PsiDirectoryNode" />
-              <item name="sound" type="462c0819:PsiDirectoryNode" />
-              <item name="sound" type="462c0819:PsiDirectoryNode" />
-              <item name="machine" type="462c0819:PsiDirectoryNode" />
+              <item name="mfcclog_no_phoneme" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -554,24 +282,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.get_mfcc_data_script (1)">
-    <configuration name="generateResult" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/luoly" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="git" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/luoly/generateResult.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.getMfcc_phoneme">
     <configuration name="getMfcc" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -585,7 +296,24 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="git" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/luoly/getMfcc.py" />
-      <option name="PARAMETERS" value="./mfcc/data/test-really-move-05-0-0" />
+      <option name="PARAMETERS" value="sound/sound/human/wav_10cm/wav_1/test" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="getMfcc_phoneme" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/luoly" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="git" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/luoly/getMfcc_no_phoneme.py" />
+      <option name="PARAMETERS" value="sound/sound/human/wav_10cm/wav_1/test0.wav" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
@@ -642,18 +370,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.getMfcc" />
-      <item index="1" class="java.lang.String" itemvalue="Python.generateResult" />
-      <item index="2" class="java.lang.String" itemvalue="Python.get_phoneme_data_script" />
-      <item index="3" class="java.lang.String" itemvalue="Python.get_mfcc_data_script" />
-      <item index="4" class="java.lang.String" itemvalue="Python.get_mfcc_data_script (1)" />
+      <item index="1" class="java.lang.String" itemvalue="Python.get_phoneme_data_script" />
+      <item index="2" class="java.lang.String" itemvalue="Python.get_mfcc_data_script" />
+      <item index="3" class="java.lang.String" itemvalue="Python.get_mfcc_data_script (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Python.getMfcc_phoneme" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.get_mfcc_data_script (1)" />
+        <item index="0" class="java.lang.String" itemvalue="Python.getMfcc_phoneme" />
         <item index="1" class="java.lang.String" itemvalue="Python.getMfcc" />
-        <item index="2" class="java.lang.String" itemvalue="Python.get_mfcc_data_script" />
-        <item index="3" class="java.lang.String" itemvalue="Python.get_phoneme_data_script" />
-        <item index="4" class="java.lang.String" itemvalue="Python.generateResult" />
+        <item index="2" class="java.lang.String" itemvalue="Python.get_mfcc_data_script (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Python.get_mfcc_data_script" />
+        <item index="4" class="java.lang.String" itemvalue="Python.get_phoneme_data_script" />
       </list>
     </recent_temporary>
   </component>
@@ -672,12 +400,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1215" height="1028" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28806585" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24295011" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="1.0" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -704,361 +431,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/data/log_machine_39cm_12_19">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2988">
-          <caret line="166" column="78" lean-forward="true" selection-start-line="166" selection-start-column="78" selection-end-line="166" selection-end-column="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/luoly/data/secondProcess/log_human.human">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="28" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="180" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/luoly/data/secondProcess/log_machine.machine">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="8" lean-forward="false" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/log_human_20cm_12_19">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="78" lean-forward="false" selection-start-line="14" selection-start-column="78" selection-end-line="14" selection-end-column="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/luoly/caldistance/getPosition.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1134">
-          <caret line="60" column="7" lean-forward="true" selection-start-line="60" selection-start-column="7" selection-end-line="60" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/luoly/caldistance/machine_training.py" />
-    <entry file="file://$PROJECT_DIR$/luoly/caldistance/positions_file_machine_10cm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="28" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/luoly/caldistance/machine_training">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="21" column="19" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="45" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/luoly/caldistance/human_training">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="39" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="33" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/luoly/caldistance/training">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="79" column="54" lean-forward="false" selection-start-line="79" selection-start-column="54" selection-end-line="79" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/luoly/caldistance/human_test">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="25" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/luoly/caldistance/machine_test">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="23" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/luoly/caldistance/test">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="29" column="67" lean-forward="false" selection-start-line="29" selection-start-column="67" selection-end-line="29" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/luoly/caldistance/positions_file_machine_30cm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/luoly/caldistance/positions_file_machine_50cm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/luoly/caldistance/positions_file_machine_39cm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/luoly/caldistance/positions_file_human_39cm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/luoly/caldistance/positions_file_human_50cm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/luoly/caldistance/positions_file_human_30cm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="34" lean-forward="false" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/luoly/caldistance/positions_file_human_10cm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="7" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/luoly/caldistance/positions_file_human_20cm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/luoly/caldistance/positions_file_machine_20cm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="29" column="56" lean-forward="false" selection-start-line="29" selection-start-column="56" selection-end-line="29" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/luoly/classify/python/mathanalysis.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/luoly/classify/python/classifyData.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/luoly/classify/python/format.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/luoly/classify/python/train_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/lib/python2.7/dist-packages/python_speech_features/sigproc.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2034">
-          <caret line="117" column="0" lean-forward="false" selection-start-line="117" selection-start-column="0" selection-end-line="117" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/lib/python2.7/dist-packages/python_speech_features/base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="26" column="7" lean-forward="false" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/lib/python2.7/dist-packages/scipy/io/wavfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5022">
-          <caret line="284" column="7" lean-forward="false" selection-start-line="284" selection-start-column="7" selection-end-line="284" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/luoly/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="10" lean-forward="false" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/luoly/data/getMfcc.py" />
-    <entry file="file://$PROJECT_DIR$/luoly/generatePar.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="8" column="16" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="32" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#10#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/luoly/generateResult.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="20" column="20" lean-forward="false" selection-start-line="19" selection-start-column="4" selection-end-line="20" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#10#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/luoly/readwav.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2142">
-          <caret line="122" column="27" lean-forward="false" selection-start-line="122" selection-start-column="4" selection-end-line="122" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#11#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/luoly/data/get_phoneme_data_script.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="543">
-          <caret line="57" column="28" lean-forward="false" selection-start-line="57" selection-start-column="20" selection-end-line="57" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#10#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/luoly/data/get_mfcc_data_script.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="35" column="21" lean-forward="false" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gcc-phat/log_human.human">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/luoly/classify/python/newlog1">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/luoly/mfcclog/10cm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/luoly/mfcclog/30cm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8040">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/luoly/mfcclog/35cm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/luoly/get_mfcc_data_script.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="499">
-          <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/luoly/getMfcc.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="70" column="25" lean-forward="false" selection-start-line="70" selection-start-column="25" selection-end-line="70" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/luoly/mfcclog/80cm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="27" column="17" lean-forward="false" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/luoly/mfcclog/80cm_machine">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2502">
-          <caret line="11" column="19" lean-forward="false" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/luoly/mfcclog/60cm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/luoly/mfcclog/50cm_machine">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/luoly/mfcclog/50cm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1066,22 +442,386 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luoly/mfcclog/35cm_machine">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="474">
+          <caret line="476" column="5" lean-forward="false" selection-start-line="384" selection-start-column="0" selection-end-line="480" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luoly/mfcclog/40cm_machine">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="632">
+          <caret line="464" column="0" lean-forward="true" selection-start-line="384" selection-start-column="0" selection-end-line="464" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/luoly/mfcclog/45cm_machine">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="632">
+          <caret line="480" column="0" lean-forward="true" selection-start-line="384" selection-start-column="0" selection-end-line="480" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luoly/mfcclog/50cm_machine">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="632">
+          <caret line="480" column="0" lean-forward="true" selection-start-line="384" selection-start-column="0" selection-end-line="480" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luoly/mfcclog/60cm_machine">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="632">
+          <caret line="480" column="0" lean-forward="true" selection-start-line="384" selection-start-column="0" selection-end-line="480" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luoly/mfcclog/80cm_machine">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="632">
+          <caret line="480" column="0" lean-forward="true" selection-start-line="384" selection-start-column="0" selection-end-line="480" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/luoly/mfcclog/10cm_machine">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1872">
-          <caret line="19" column="23" lean-forward="true" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+        <state relative-caret-position="434">
+          <caret line="389" column="17" lean-forward="true" selection-start-line="389" selection-start-column="14" selection-end-line="389" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luoly/mfcclog/30cm_machine">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="636">
+          <caret line="464" column="16" lean-forward="true" selection-start-line="464" selection-start-column="16" selection-end-line="464" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luoly/mfcclog/20cm_machine">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="460" column="19" lean-forward="false" selection-start-line="460" selection-start-column="19" selection-end-line="460" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luoly/mfcclog/20cm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="384" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luoly/mfcclog/30cm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="632">
+          <caret line="480" column="0" lean-forward="false" selection-start-line="384" selection-start-column="0" selection-end-line="480" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luoly/mfcclog/35cm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="632">
+          <caret line="480" column="0" lean-forward="false" selection-start-line="384" selection-start-column="0" selection-end-line="480" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luoly/mfcclog/40cm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="632">
+          <caret line="480" column="0" lean-forward="false" selection-start-line="384" selection-start-column="0" selection-end-line="480" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luoly/mfcclog/50cm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="632">
+          <caret line="480" column="0" lean-forward="false" selection-start-line="384" selection-start-column="0" selection-end-line="480" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luoly/mfcclog/60cm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="453" column="7" lean-forward="false" selection-start-line="384" selection-start-column="0" selection-end-line="464" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luoly/mfcclog/80cm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="384" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luoly/mfcclog/all_distance_human_20%">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14184">
+          <caret line="788" column="0" lean-forward="false" selection-start-line="788" selection-start-column="0" selection-end-line="788" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luoly/mfcclog/all_distance_human_80%">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50112">
+          <caret line="2784" column="0" lean-forward="false" selection-start-line="2784" selection-start-column="0" selection-end-line="2784" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luoly/mfcclog/all_distance_machine_20%">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15264">
+          <caret line="848" column="0" lean-forward="false" selection-start-line="848" selection-start-column="0" selection-end-line="848" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luoly/mfcclog/all_distance_machine_80%">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62208">
+          <caret line="3456" column="0" lean-forward="false" selection-start-line="3456" selection-start-column="0" selection-end-line="3456" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/python_speech_features/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="7" column="4" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python2.7/wave.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2862">
+          <caret line="159" column="0" lean-forward="false" selection-start-line="159" selection-start-column="0" selection-end-line="159" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luoly/mfcclog/10cm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="384" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luoly/get_mfcc_data_script.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="723">
+          <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luoly/get_mfcc_no_phoneme_data_script.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luoly/getMfcc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="543">
+          <caret line="70" column="24" lean-forward="false" selection-start-line="70" selection-start-column="24" selection-end-line="70" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luoly/getMfcc_no_phoneme.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="37" column="13" lean-forward="false" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luoly/mfcclog_no_phoneme/all_distance_human_20%">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="784">
+          <caret line="212" column="21" lean-forward="true" selection-start-line="212" selection-start-column="21" selection-end-line="212" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luoly/mfcclog_no_phoneme/10cm_human">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="770">
+          <caret line="120" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luoly/mfcclog_no_phoneme/20cm_human">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="770">
+          <caret line="120" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luoly/mfcclog_no_phoneme/30cm_human">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="770">
+          <caret line="120" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luoly/mfcclog_no_phoneme/40cm_human">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="770">
+          <caret line="120" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luoly/mfcclog_no_phoneme/45cm_human">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="770">
+          <caret line="120" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luoly/mfcclog_no_phoneme/60cm_human">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="770">
+          <caret line="120" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luoly/mfcclog_no_phoneme/80cm_human">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="770">
+          <caret line="120" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luoly/mfcclog_no_phoneme/all_distance_human_80%">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="766">
+          <caret line="859" column="14" lean-forward="false" selection-start-line="859" selection-start-column="14" selection-end-line="859" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luoly/mfcclog_no_phoneme/35cm_human">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="770">
+          <caret line="120" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luoly/mfcclog_no_phoneme/50cm_human">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="590">
+          <caret line="83" column="9" lean-forward="true" selection-start-line="83" selection-start-column="9" selection-end-line="83" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luoly/mfcclog_no_phoneme/all_distance_machine_20%">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="856">
+          <caret line="216" column="0" lean-forward="true" selection-start-line="216" selection-start-column="0" selection-end-line="216" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luoly/mfcclog_no_phoneme/10cm_machine">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="770">
+          <caret line="120" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luoly/mfcclog_no_phoneme/20cm_machine">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="770">
+          <caret line="120" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luoly/mfcclog_no_phoneme/30cm_machine">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="770">
+          <caret line="120" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luoly/mfcclog_no_phoneme/35cm_machine">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="770">
+          <caret line="120" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luoly/mfcclog_no_phoneme/40cm_machine">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="770">
+          <caret line="120" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luoly/mfcclog_no_phoneme/45cm_machine">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="784">
+          <caret line="120" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luoly/mfcclog_no_phoneme/50cm_machine">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="770">
+          <caret line="120" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luoly/mfcclog_no_phoneme/60cm_machine">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="770">
+          <caret line="120" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luoly/mfcclog_no_phoneme/80cm_machine">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="770">
+          <caret line="120" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luoly/mfcclog_no_phoneme/all_distance_machine_80%">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="847" column="31" lean-forward="false" selection-start-line="847" selection-start-column="31" selection-end-line="847" selection-end-column="31" />
           <folding />
         </state>
       </provider>
