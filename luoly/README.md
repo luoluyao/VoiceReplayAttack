@@ -44,7 +44,7 @@
   
  * 注意：**getMfcc_no_phoneme.py**也是类似的，只是，它是对整个原音频进行分析的。
  
-## getMfcc_no_phoneme.py
+## get_mfcc_data_script.py
 
 * 用于批量处理执行 **getMfcc.py**脚本
 
