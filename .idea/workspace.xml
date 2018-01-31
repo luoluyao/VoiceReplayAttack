@@ -2,19 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f658f9e-d9d3-412c-9d74-4e4f6ec06051" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luoly/getMfcc_no_phoneme.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luoly/get_mfcc_no_phoneme_data_script.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luoly/mfcclog/all_distance_human_20%" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luoly/mfcclog/all_distance_human_80%" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luoly/mfcclog/all_distance_machine_20%" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luoly/mfcclog/all_distance_machine_80%" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luoly/mfcclog_no_phoneme/all_distance_human_20%" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luoly/mfcclog_no_phoneme/all_distance_human_80%" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luoly/mfcclog_no_phoneme/all_distance_machine_20%" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luoly/mfcclog_no_phoneme/all_distance_machine_80%" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luoly/getMfcc_ASVsproof.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luoly/get_mfcc_asvspoof.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/luoly/mfcclog/40cm_machine" afterPath="$PROJECT_DIR$/luoly/mfcclog/40cm_machine" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/luoly/mfcclog/60cm_machine" afterPath="$PROJECT_DIR$/luoly/mfcclog/60cm_machine" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,21 +15,73 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="10cm_machine" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/luoly/mfcclog_no_phoneme/10cm_machine">
+      <file leaf-file-name="getMfcc.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/luoly/getMfcc.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="770">
-              <caret line="120" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
+            <state relative-caret-position="1152">
+              <caret line="70" column="24" lean-forward="false" selection-start-line="70" selection-start-column="24" selection-end-line="70" selection-end-column="24" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="all_distance_machine_80%" pinned="false" current-in-tab="true">
+      <file leaf-file-name="getMfcc_no_phoneme.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/luoly/getMfcc_no_phoneme.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="666">
+              <caret line="43" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="get_mfcc_no_phoneme_data_script.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/luoly/get_mfcc_no_phoneme_data_script.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="522">
+              <caret line="31" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="59" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="getMfcc_ASVsproof.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/luoly/getMfcc_ASVsproof.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="449">
+              <caret line="56" column="0" lean-forward="true" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="get_mfcc_asvspoof.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/luoly/get_mfcc_asvspoof.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="403">
+              <caret line="53" column="24" lean-forward="false" selection-start-line="53" selection-start-column="24" selection-end-line="53" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="all_distance_machine_80%" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/luoly/mfcclog_no_phoneme/all_distance_machine_80%">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="464">
-              <caret line="847" column="31" lean-forward="false" selection-start-line="847" selection-start-column="31" selection-end-line="847" selection-end-column="31" />
+            <state relative-caret-position="15030">
+              <caret line="835" column="12" lean-forward="false" selection-start-line="835" selection-start-column="12" selection-end-line="835" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="get_mfcc_data_script.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/luoly/get_mfcc_data_script.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="522">
+              <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -48,7 +90,7 @@
       <file leaf-file-name="80cm_machine" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/luoly/mfcclog_no_phoneme/80cm_machine">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="770">
+            <state relative-caret-position="2160">
               <caret line="120" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
               <folding />
             </state>
@@ -58,17 +100,7 @@
       <file leaf-file-name="60cm_machine" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/luoly/mfcclog_no_phoneme/60cm_machine">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="770">
-              <caret line="120" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="45cm_machine" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/luoly/mfcclog_no_phoneme/45cm_machine">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="784">
+            <state relative-caret-position="2160">
               <caret line="120" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
               <folding />
             </state>
@@ -78,47 +110,7 @@
       <file leaf-file-name="50cm_machine" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/luoly/mfcclog_no_phoneme/50cm_machine">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="770">
-              <caret line="120" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="40cm_machine" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/luoly/mfcclog_no_phoneme/40cm_machine">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="770">
-              <caret line="120" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="35cm_machine" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/luoly/mfcclog_no_phoneme/35cm_machine">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="770">
-              <caret line="120" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="30cm_machine" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/luoly/mfcclog_no_phoneme/30cm_machine">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="770">
-              <caret line="120" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="20cm_machine" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/luoly/mfcclog_no_phoneme/20cm_machine">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="770">
+            <state relative-caret-position="2160">
               <caret line="120" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
               <folding />
             </state>
@@ -155,8 +147,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/luoly/classify/python/log_multithread_m" />
-        <option value="$PROJECT_DIR$/luoly/classify/python/format.py" />
         <option value="$PROJECT_DIR$/gcc-phat/tdoa.py" />
         <option value="$PROJECT_DIR$/luoly/multitdoa/tdoaflow" />
         <option value="$PROJECT_DIR$/luoly/caldistance/positions_file_human_10cm" />
@@ -206,6 +196,8 @@
         <option value="$PROJECT_DIR$/luoly/mfcclog_no_phoneme/all_distance_machine_20%" />
         <option value="$PROJECT_DIR$/luoly/mfcclog_no_phoneme/10cm_machine" />
         <option value="$PROJECT_DIR$/luoly/mfcclog_no_phoneme/all_distance_machine_80%" />
+        <option value="$PROJECT_DIR$/luoly/get_mfcc_asvspoof.py" />
+        <option value="$PROJECT_DIR$/luoly/getMfcc_ASVsproof.py" />
       </list>
     </option>
   </component>
@@ -243,12 +235,6 @@
               <item name="git" type="462c0819:PsiDirectoryNode" />
               <item name="luoly" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="git" type="b2602c69:ProjectViewProjectNode" />
-              <item name="git" type="462c0819:PsiDirectoryNode" />
-              <item name="luoly" type="462c0819:PsiDirectoryNode" />
-              <item name="mfcclog_no_phoneme" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -282,7 +268,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.getMfcc_phoneme">
+  <component name="RunManager" selected="Python.get_mfcc_asvspoof">
     <configuration name="getMfcc" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -297,6 +283,23 @@
       <module name="git" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/luoly/getMfcc.py" />
       <option name="PARAMETERS" value="sound/sound/human/wav_10cm/wav_1/test" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="getMfcc_ASVsproof" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/luoly" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="git" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/luoly/getMfcc_ASVsproof.py" />
+      <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
@@ -317,6 +320,23 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+    <configuration name="get_mfcc_asvspoof" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/luoly" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="git" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/luoly/get_mfcc_asvspoof.py" />
+      <option name="PARAMETERS" value="$PROJECT_DIR$/../ASVspoof2017_train/ASVspoof2017_human $PROJECT_DIR$/../ASVspoof2017_train/ASVspoof2017_human/mfcc_human" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <configuration name="get_mfcc_data_script (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -334,54 +354,20 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="get_mfcc_data_script" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/luoly/data" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="git" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/luoly/data/get_mfcc_data_script.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="get_phoneme_data_script" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/luoly/data" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="git" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/luoly/data/get_phoneme_data_script.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.getMfcc" />
-      <item index="1" class="java.lang.String" itemvalue="Python.get_phoneme_data_script" />
-      <item index="2" class="java.lang.String" itemvalue="Python.get_mfcc_data_script" />
-      <item index="3" class="java.lang.String" itemvalue="Python.get_mfcc_data_script (1)" />
-      <item index="4" class="java.lang.String" itemvalue="Python.getMfcc_phoneme" />
+      <item index="1" class="java.lang.String" itemvalue="Python.get_mfcc_data_script (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Python.getMfcc_phoneme" />
+      <item index="3" class="java.lang.String" itemvalue="Python.get_mfcc_asvspoof" />
+      <item index="4" class="java.lang.String" itemvalue="Python.getMfcc_ASVsproof" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.getMfcc_phoneme" />
-        <item index="1" class="java.lang.String" itemvalue="Python.getMfcc" />
-        <item index="2" class="java.lang.String" itemvalue="Python.get_mfcc_data_script (1)" />
-        <item index="3" class="java.lang.String" itemvalue="Python.get_mfcc_data_script" />
-        <item index="4" class="java.lang.String" itemvalue="Python.get_phoneme_data_script" />
+        <item index="0" class="java.lang.String" itemvalue="Python.get_mfcc_asvspoof" />
+        <item index="1" class="java.lang.String" itemvalue="Python.getMfcc_ASVsproof" />
+        <item index="2" class="java.lang.String" itemvalue="Python.getMfcc_phoneme" />
+        <item index="3" class="java.lang.String" itemvalue="Python.getMfcc" />
+        <item index="4" class="java.lang.String" itemvalue="Python.get_mfcc_data_script (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -400,11 +386,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1215" height="1028" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28806585" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="1.0" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27765727" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -413,12 +400,23 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27765727" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28806585" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3991323" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -426,95 +424,18 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
       <option name="time" value="1" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/luoly/classify/python/newlog1">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/luoly/mfcclog/45cm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/luoly/mfcclog/35cm_machine">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="474">
-          <caret line="476" column="5" lean-forward="false" selection-start-line="384" selection-start-column="0" selection-end-line="480" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/luoly/mfcclog/40cm_machine">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="632">
-          <caret line="464" column="0" lean-forward="true" selection-start-line="384" selection-start-column="0" selection-end-line="464" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/luoly/mfcclog/45cm_machine">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="632">
-          <caret line="480" column="0" lean-forward="true" selection-start-line="384" selection-start-column="0" selection-end-line="480" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/luoly/mfcclog/50cm_machine">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="632">
-          <caret line="480" column="0" lean-forward="true" selection-start-line="384" selection-start-column="0" selection-end-line="480" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/luoly/mfcclog/60cm_machine">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="632">
-          <caret line="480" column="0" lean-forward="true" selection-start-line="384" selection-start-column="0" selection-end-line="480" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/luoly/mfcclog/80cm_machine">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="632">
-          <caret line="480" column="0" lean-forward="true" selection-start-line="384" selection-start-column="0" selection-end-line="480" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/luoly/mfcclog/10cm_machine">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="389" column="17" lean-forward="true" selection-start-line="389" selection-start-column="14" selection-end-line="389" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/luoly/mfcclog/30cm_machine">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="636">
-          <caret line="464" column="16" lean-forward="true" selection-start-line="464" selection-start-column="16" selection-end-line="464" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/luoly/mfcclog/20cm_machine">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="460" column="19" lean-forward="false" selection-start-line="460" selection-start-column="19" selection-end-line="460" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/luoly/mfcclog/20cm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="384" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/luoly/mfcclog/30cm">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="632">
@@ -554,7 +475,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="384" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -562,7 +482,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="14184">
           <caret line="788" column="0" lean-forward="false" selection-start-line="788" selection-start-column="0" selection-end-line="788" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -570,7 +489,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50112">
           <caret line="2784" column="0" lean-forward="false" selection-start-line="2784" selection-start-column="0" selection-end-line="2784" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -578,7 +496,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15264">
           <caret line="848" column="0" lean-forward="false" selection-start-line="848" selection-start-column="0" selection-end-line="848" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -586,7 +503,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="62208">
           <caret line="3456" column="0" lean-forward="false" selection-start-line="3456" selection-start-column="0" selection-end-line="3456" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -594,7 +510,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="7" column="4" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -602,7 +517,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2862">
           <caret line="159" column="0" lean-forward="false" selection-start-line="159" selection-start-column="0" selection-end-line="159" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -610,43 +524,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="384" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/luoly/get_mfcc_data_script.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="723">
-          <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/luoly/get_mfcc_no_phoneme_data_script.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/luoly/getMfcc.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="543">
-          <caret line="70" column="24" lean-forward="false" selection-start-line="70" selection-start-column="24" selection-end-line="70" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/luoly/getMfcc_no_phoneme.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="37" column="13" lean-forward="false" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -654,7 +531,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="784">
           <caret line="212" column="21" lean-forward="true" selection-start-line="212" selection-start-column="21" selection-end-line="212" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -662,7 +538,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="770">
           <caret line="120" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -670,7 +545,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="770">
           <caret line="120" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -678,7 +552,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="770">
           <caret line="120" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -686,7 +559,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="770">
           <caret line="120" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -694,7 +566,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="770">
           <caret line="120" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -702,7 +573,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="770">
           <caret line="120" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -710,7 +580,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="770">
           <caret line="120" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -718,7 +587,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="766">
           <caret line="859" column="14" lean-forward="false" selection-start-line="859" selection-start-column="14" selection-end-line="859" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -726,7 +594,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="770">
           <caret line="120" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -734,7 +601,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="590">
           <caret line="83" column="9" lean-forward="true" selection-start-line="83" selection-start-column="9" selection-end-line="83" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -742,7 +608,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="856">
           <caret line="216" column="0" lean-forward="true" selection-start-line="216" selection-start-column="0" selection-end-line="216" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -750,7 +615,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="770">
           <caret line="120" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -758,7 +622,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="770">
           <caret line="120" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -766,7 +629,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="770">
           <caret line="120" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -774,7 +636,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="770">
           <caret line="120" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -782,7 +643,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="770">
           <caret line="120" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -790,7 +650,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="784">
           <caret line="120" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -820,9 +679,141 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/luoly/mfcclog_no_phoneme/all_distance_machine_80%">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="847" column="31" lean-forward="false" selection-start-line="847" selection-start-column="31" selection-end-line="847" selection-end-column="31" />
+        <state relative-caret-position="248">
+          <caret line="835" column="12" lean-forward="true" selection-start-line="835" selection-start-column="12" selection-end-line="835" selection-end-column="12" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luoly/getMfcc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="554">
+          <caret line="70" column="24" lean-forward="false" selection-start-line="70" selection-start-column="24" selection-end-line="70" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luoly/getMfcc_no_phoneme.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="43" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luoly/get_mfcc_data_script.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luoly/get_mfcc_no_phoneme_data_script.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="31" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="59" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luoly/getMfcc_ASVsproof.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="35" column="12" lean-forward="true" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luoly/get_mfcc_asvspoof.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="53" column="33" lean-forward="true" selection-start-line="53" selection-start-column="33" selection-end-line="53" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luoly/getMfcc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1152">
+          <caret line="70" column="24" lean-forward="false" selection-start-line="70" selection-start-column="24" selection-end-line="70" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luoly/getMfcc_no_phoneme.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="666">
+          <caret line="43" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luoly/get_mfcc_no_phoneme_data_script.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="59" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luoly/mfcclog_no_phoneme/all_distance_machine_80%">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15030">
+          <caret line="835" column="12" lean-forward="false" selection-start-line="835" selection-start-column="12" selection-end-line="835" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luoly/get_mfcc_data_script.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luoly/mfcclog_no_phoneme/80cm_machine">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2160">
+          <caret line="120" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luoly/mfcclog_no_phoneme/60cm_machine">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2160">
+          <caret line="120" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luoly/mfcclog_no_phoneme/50cm_machine">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2160">
+          <caret line="120" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luoly/get_mfcc_asvspoof.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="53" column="24" lean-forward="false" selection-start-line="53" selection-start-column="24" selection-end-line="53" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luoly/getMfcc_ASVsproof.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="56" column="0" lean-forward="true" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
