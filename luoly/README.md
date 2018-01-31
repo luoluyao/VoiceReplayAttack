@@ -54,7 +54,9 @@
 
 * $ python get_mfcc_data_script.py sound/sound/machine/wav_machine_60cm/ mfcclog_no_phoneme/60cm_machine
 
-* 注意：**get_mfcc_no_phoneme_data_script.py**类似。
+* 注意：**get_mfcc_no_phoneme_data_script.py，get_mfcc_asvspoof.py**类似。
+* get_mfcc_no_phoneme_data_script.py是在不对其进行音素切割条件下，进行处理的额脚本
+* get_mfcc_asvspoof.py是对asvsproof数据集进行出来的脚本
 
 
 
