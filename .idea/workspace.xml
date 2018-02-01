@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f658f9e-d9d3-412c-9d74-4e4f6ec06051" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luoly/getMfcc_ASVsproof.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luoly/get_mfcc_asvspoof.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luoly/getMfcc_ASVsproof_2.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/luoly/get_mfcc_asvspoof.py" afterPath="$PROJECT_DIR$/luoly/get_mfcc_asvsproof.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,38 +18,18 @@
       <file leaf-file-name="getMfcc.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/luoly/getMfcc.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1152">
-              <caret line="70" column="24" lean-forward="false" selection-start-line="70" selection-start-column="24" selection-end-line="70" selection-end-column="24" />
+            <state relative-caret-position="846">
+              <caret line="53" column="36" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="getMfcc_no_phoneme.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/luoly/getMfcc_no_phoneme.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="666">
-              <caret line="43" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="get_mfcc_no_phoneme_data_script.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/luoly/get_mfcc_no_phoneme_data_script.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="522">
-              <caret line="31" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="59" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="getMfcc_ASVsproof.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="getMfcc_ASVsproof.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/luoly/getMfcc_ASVsproof.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="449">
-              <caret line="56" column="0" lean-forward="true" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+            <state relative-caret-position="936">
+              <caret line="58" column="10" lean-forward="false" selection-start-line="58" selection-start-column="10" selection-end-line="58" selection-end-column="10" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -57,11 +37,34 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="get_mfcc_asvspoof.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/luoly/get_mfcc_asvspoof.py">
+      <file leaf-file-name="getMfcc_ASVsproof_2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/luoly/getMfcc_ASVsproof_2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="403">
-              <caret line="53" column="24" lean-forward="false" selection-start-line="53" selection-start-column="24" selection-end-line="53" selection-end-column="24" />
+            <state relative-caret-position="187">
+              <caret line="47" column="13" lean-forward="false" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+                <marker date="1517468893339" expanded="true" signature="1581:1679" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__builtin__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.PyCharmCE2017.2/system/python_stubs/-1247972723/__builtin__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1818">
+              <caret line="101" column="4" lean-forward="false" selection-start-line="101" selection-start-column="4" selection-end-line="101" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="get_mfcc_asvsproof.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/luoly/get_mfcc_asvsproof.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="522">
+              <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -136,9 +139,9 @@
       <find>array</find>
       <find>analysisFile</find>
       <find>read_wave_data</find>
-      <find>print</find>
       <find>-1 0:21.09 1:-29.15 2:-23.95 3:-15.56 4:-32.9 5:4.22 6:5.83 7:9.42 8:15.0 9:-7.56</find>
       <find>winlen</find>
+      <find>print</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -147,10 +150,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/gcc-phat/tdoa.py" />
-        <option value="$PROJECT_DIR$/luoly/multitdoa/tdoaflow" />
-        <option value="$PROJECT_DIR$/luoly/caldistance/positions_file_human_10cm" />
-        <option value="$PROJECT_DIR$/luoly/caldistance/positions_file_machine_10cm" />
         <option value="$PROJECT_DIR$/luoly/caldistance/positions_file_machine_20cm" />
         <option value="$PROJECT_DIR$/luoly/caldistance/positions_file_machine_30cm" />
         <option value="$PROJECT_DIR$/luoly/caldistance/positions_file_human_20cm" />
@@ -196,8 +195,12 @@
         <option value="$PROJECT_DIR$/luoly/mfcclog_no_phoneme/all_distance_machine_20%" />
         <option value="$PROJECT_DIR$/luoly/mfcclog_no_phoneme/10cm_machine" />
         <option value="$PROJECT_DIR$/luoly/mfcclog_no_phoneme/all_distance_machine_80%" />
-        <option value="$PROJECT_DIR$/luoly/get_mfcc_asvspoof.py" />
         <option value="$PROJECT_DIR$/luoly/getMfcc_ASVsproof.py" />
+        <option value="$PROJECT_DIR$/luoly/get_mfcc_asvspoof.py" />
+        <option value="$PROJECT_DIR$/luoly/getMfcc2.py" />
+        <option value="$PROJECT_DIR$/luoly/get_mfcc_asvsproof_2.py" />
+        <option value="$PROJECT_DIR$/luoly/get_mfcc_asvsproof.py" />
+        <option value="$PROJECT_DIR$/luoly/getMfcc_ASVsproof_2.py" />
       </list>
     </option>
   </component>
@@ -222,7 +225,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -240,19 +242,20 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/gcc-phat" />
+      <recent name="$PROJECT_DIR$/luoly/multitdoa" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/luoly" />
       <recent name="$PROJECT_DIR$/data" />
-      <recent name="$PROJECT_DIR$/luoly/multitdoa" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/gcc-phat" />
       <recent name="$PROJECT_DIR$/luoly/multitdoa" />
     </key>
   </component>
@@ -303,6 +306,23 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+    <configuration name="getMfcc_ASVsproof_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/luoly" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="git" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/luoly/getMfcc_ASVsproof_2.py" />
+      <option name="PARAMETERS" value="$PROJECT_DIR$/../ASVspoof2017_eval/ASVspoof2017_eval_v2_key.trl.txt    $PROJECT_DIR$/../ASVspoof2017_eval/E_1010667.wav" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <configuration name="getMfcc_phoneme" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -332,42 +352,25 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="git" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/luoly/get_mfcc_asvspoof.py" />
-      <option name="PARAMETERS" value="$PROJECT_DIR$/../ASVspoof2017_train/ASVspoof2017_human $PROJECT_DIR$/../ASVspoof2017_train/ASVspoof2017_human/mfcc_human" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="get_mfcc_data_script (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/luoly" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="git" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/luoly/get_mfcc_data_script.py" />
-      <option name="PARAMETERS" value="sound/sound/human/wav_10cm/ mfcclog/10cm" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/luoly/get_mfcc_asvsproof.py" />
+      <option name="PARAMETERS" value="$PROJECT_DIR$/../ASVspoof2017_eval  $PROJECT_DIR$/../ASVspoof2017_eval/truth_data" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.getMfcc" />
-      <item index="1" class="java.lang.String" itemvalue="Python.get_mfcc_data_script (1)" />
-      <item index="2" class="java.lang.String" itemvalue="Python.getMfcc_phoneme" />
-      <item index="3" class="java.lang.String" itemvalue="Python.get_mfcc_asvspoof" />
-      <item index="4" class="java.lang.String" itemvalue="Python.getMfcc_ASVsproof" />
+      <item index="1" class="java.lang.String" itemvalue="Python.getMfcc_phoneme" />
+      <item index="2" class="java.lang.String" itemvalue="Python.get_mfcc_asvspoof" />
+      <item index="3" class="java.lang.String" itemvalue="Python.getMfcc_ASVsproof" />
+      <item index="4" class="java.lang.String" itemvalue="Python.getMfcc_ASVsproof_2" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="Python.get_mfcc_asvspoof" />
-        <item index="1" class="java.lang.String" itemvalue="Python.getMfcc_ASVsproof" />
-        <item index="2" class="java.lang.String" itemvalue="Python.getMfcc_phoneme" />
-        <item index="3" class="java.lang.String" itemvalue="Python.getMfcc" />
-        <item index="4" class="java.lang.String" itemvalue="Python.get_mfcc_data_script (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Python.getMfcc_ASVsproof_2" />
+        <item index="2" class="java.lang.String" itemvalue="Python.getMfcc_ASVsproof" />
+        <item index="3" class="java.lang.String" itemvalue="Python.getMfcc_phoneme" />
+        <item index="4" class="java.lang.String" itemvalue="Python.getMfcc" />
       </list>
     </recent_temporary>
   </component>
@@ -385,13 +388,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="-4" width="1215" height="1028" extended-state="6" />
+    <frame x="466" y="188" width="1217" height="1036" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28806585" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27765727" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27765727" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -400,23 +403,12 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27765727" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28806585" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3991323" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -436,41 +428,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/luoly/mfcclog/30cm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="632">
-          <caret line="480" column="0" lean-forward="false" selection-start-line="384" selection-start-column="0" selection-end-line="480" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/luoly/mfcclog/35cm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="632">
-          <caret line="480" column="0" lean-forward="false" selection-start-line="384" selection-start-column="0" selection-end-line="480" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/luoly/mfcclog/40cm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="632">
-          <caret line="480" column="0" lean-forward="false" selection-start-line="384" selection-start-column="0" selection-end-line="480" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/luoly/mfcclog/50cm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="632">
-          <caret line="480" column="0" lean-forward="false" selection-start-line="384" selection-start-column="0" selection-end-line="480" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/luoly/mfcclog/60cm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="453" column="7" lean-forward="false" selection-start-line="384" selection-start-column="0" selection-end-line="464" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/luoly/mfcclog/80cm">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -697,7 +654,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="504">
           <caret line="43" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -713,7 +669,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="309">
           <caret line="31" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="59" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -727,18 +682,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/luoly/get_mfcc_asvspoof.py">
+    <entry file="file://$PROJECT_DIR$/luoly/get_mfcc_asvsproof.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="381">
           <caret line="53" column="33" lean-forward="true" selection-start-line="53" selection-start-column="33" selection-end-line="53" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/luoly/getMfcc.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1152">
-          <caret line="70" column="24" lean-forward="false" selection-start-line="70" selection-start-column="24" selection-end-line="70" selection-end-column="24" />
           <folding />
         </state>
       </provider>
@@ -747,7 +694,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="666">
           <caret line="43" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -755,7 +701,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="522">
           <caret line="31" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="59" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -763,14 +708,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15030">
           <caret line="835" column="12" lean-forward="false" selection-start-line="835" selection-start-column="12" selection-end-line="835" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/luoly/get_mfcc_data_script.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -799,21 +736,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/luoly/get_mfcc_asvspoof.py">
+    <entry file="file://$PROJECT_DIR$/luoly/get_mfcc_data_script.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="53" column="24" lean-forward="false" selection-start-line="53" selection-start-column="24" selection-end-line="53" selection-end-column="24" />
+        <state relative-caret-position="522">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luoly/getMfcc2.py" />
+    <entry file="file://$PROJECT_DIR$/luoly/get_mfcc_asvsproof.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luoly/get_mfcc_asvsproof_2.py" />
+    <entry file="file://$PROJECT_DIR$/luoly/getMfcc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="846">
+          <caret line="53" column="36" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/luoly/getMfcc_ASVsproof.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="449">
-          <caret line="56" column="0" lean-forward="true" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+        <state relative-caret-position="936">
+          <caret line="58" column="10" lean-forward="false" selection-start-line="58" selection-start-column="10" selection-end-line="58" selection-end-column="10" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2017.2/system/python_stubs/-1247972723/__builtin__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1818">
+          <caret line="101" column="4" lean-forward="false" selection-start-line="101" selection-start-column="4" selection-end-line="101" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luoly/getMfcc_ASVsproof_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="47" column="13" lean-forward="false" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+            <marker date="1517468893339" expanded="true" signature="1581:1679" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luoly/get_mfcc_asvsproof.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

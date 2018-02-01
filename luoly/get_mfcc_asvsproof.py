@@ -50,12 +50,11 @@ def main():
     allfile = []
     dirlist(path, allfile)
     cmds = []
-    count = 10
+    count = 0
     for file in allfile:
         if file.endswith(".wav"):
-            cmd =  "python getMfcc_ASVsproof.py " + file + " >> " + distance_file
+            cmd =  "python getMfcc_ASVsproof_2.py " + file + " >> " + distance_file
             cmds.append(cmd)
-            print cmd
         if count % 10 == 0:
             thread_cmd(cmds)
             cmds = []
