@@ -29,7 +29,6 @@ def dirlist(path, allfile):
 def thread_cmd(cmds):
     # threads pool
     threads = []
-
     # create four threads
     try:
         for cmd in cmds:
@@ -37,7 +36,6 @@ def thread_cmd(cmds):
             print cmd
             th.start()
             threads.append(th)
-
     except:
         print "Error: unable to start thread"
 

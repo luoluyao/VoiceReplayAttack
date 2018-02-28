@@ -41,6 +41,8 @@ def print_data(features, filename):
     count = 0
     string_data = ""
     short_filename = filename.strip().split("/")
+    if (not dictionary.has_key(short_filename[-1])):
+        return
     if dictionary[short_filename[-1]] == 'genuine':
         string_data = "1 "
     elif dictionary[short_filename[-1]] == 'spoof':
