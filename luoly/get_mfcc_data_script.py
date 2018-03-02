@@ -40,7 +40,7 @@ def thread_cmd(cmds):
         print "Error: unable to start thread"
 
     for th in threads:
-        th.join()
+        th.join(timeout=300)
 
 def main():
     path = sys.argv[1]

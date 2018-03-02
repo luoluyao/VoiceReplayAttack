@@ -44,6 +44,7 @@ def thread_cmd(cmds):
     for th in threads:
         th.join()
 
+
 def main():
     path = sys.argv[1]
     distance_file = sys.argv[2]

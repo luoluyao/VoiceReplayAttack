@@ -36,7 +36,7 @@ def print_data(features):
     :return:
     '''
     count = 0
-    string_data = "1 "
+    string_data = "-1 "
     for feature in features:
         string_data += str(count) + ":" + str(round(feature, 2)) + " "
         count += 1

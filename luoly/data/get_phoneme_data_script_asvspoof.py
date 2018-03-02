@@ -1,7 +1,6 @@
 import sys
 import os
 import threading
-cmds = []
 
 # record dictionary
 dictionary = {}
@@ -12,14 +11,15 @@ def exec_cmd(cmd):
     print x
     p.close()
 
-def get_result(filename):
-    origin_name = filename
-    if "/" in filename:
-        f_name = filename.split("/")
-        origin_name = f_name[len(f_name) - 1]
-    cmd = "./maus SIGNAL=" + filename  +" BPF=" + str(dictionary[origin_name]) + ".par OUTFORMAT=TextGrid LANGUAGE=eng-US"
-    cmds.append(cmd)
-
+def get_result(filenames):
+    cmds = []
+    for filename in filenames:
+        origin_name = filename
+        if "/" in filename:
+            f_name = filename.split("/")
+            origin_name = f_name[len(f_name) - 1]
+        cmd = "./maus SIGNAL=" + filename  +" BPF=" + str(dictionary[origin_name]) + ".par OUTFORMAT=TextGrid LANGUAGE=eng-US"
+        cmds.append(cmd)
     # threads pool
     threads = []
     # create four threads
@@ -27,16 +27,13 @@ def get_result(filename):
         for cmd in cmds:
             th = threading.Thread(target=exec_cmd, args=(cmd,))
             print cmd
-            #th.start()
+            th.start()
             threads.append(th)
-
     except:
        print "Error: unable to start thread"
 
     for th in threads:
-        #th.join()
-        pass
-
+        th.join()
 
 def dirlist(path, allfile):
     '''
@@ -65,10 +62,14 @@ def get_same_file_name(allfiles):
     for i in range(one_size + 1):
         end = min((i + 1) * 10, size)
         partfiles = allfiles[i * 10 : end]
+        filenames = []
         for filename in partfiles:
+            newfilename = filename[:-4] + ".TextGrid"
+            if newfilename in allfiles:
+                continue
             if filename.endswith('.wav'):
-                get_result(filename)
-
+                filenames.append(filename)
+        get_result(filenames)
 
 def read_groundtruth_data_content(filename):
     f = open(filename, "r")

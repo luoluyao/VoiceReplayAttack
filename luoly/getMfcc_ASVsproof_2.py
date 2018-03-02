@@ -70,7 +70,7 @@ def read_groundtruth_data(filename):
     # print dictionary
 
 def main():
-    filename_groundtruth = '/home/lly/caoch/ASVspoof2017_eval/ASVspoof2017_eval_v2_key.trl.txt' # ATTENTION: ALL FILES HAVE SAME NAMES
+    filename_groundtruth = '/home/lly/caoch/protocol/ASVspoof2017_eval_v2_key.trl.txt' # ATTENTION: ALL FILES HAVE SAME NAMES
     filename_data = sys.argv[1]
     read_groundtruth_data(filename_groundtruth)
     get_mfcc_from_files(filename_data)
