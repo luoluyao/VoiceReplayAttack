@@ -1,0 +1,50 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.970000
+tiers? <exists> 
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "MAU"
+        xmin = 0
+        xmax = 4.970000
+        intervals: size = 9
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 1.290000
+            text = "<p:>"
+        intervals [2]:
+            xmin = 1.290000
+            xmax = 1.770000
+            text = "A:"
+        intervals [3]:
+            xmin = 1.770000
+            xmax = 2.150000
+            text = "<p:>"
+        intervals [4]:
+            xmin = 2.150000
+            xmax = 2.640000
+            text = "A:"
+        intervals [5]:
+            xmin = 2.640000
+            xmax = 3.060000
+            text = "<p:>"
+        intervals [6]:
+            xmin = 3.060000
+            xmax = 3.580000
+            text = "A:"
+        intervals [7]:
+            xmin = 3.580000
+            xmax = 4.010000
+            text = "<p:>"
+        intervals [8]:
+            xmin = 4.010000
+            xmax = 4.520000
+            text = "A:"
+        intervals [9]:
+            xmin = 4.520000
+            xmax = 4.970000
+            text = "<p:>"
