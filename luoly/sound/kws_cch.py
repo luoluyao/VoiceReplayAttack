@@ -42,7 +42,7 @@ def main():
 
     src.recursive_start()
     sec = 0
-    while sec < 3:
+    while sec < 5:
         try:
             time.sleep(1)
             sec = sec + 1
